@@ -5,6 +5,9 @@
     <string name="button_favorite">Favorite</string>
     <string name="cardview_username">Username</string>
     <string name="description">Descripcion de ideas</string>
+    <string name="place">Destination of the trip</string>
+    <string name="date">12/20/2018</string>
+
     <string name="img_logo">Joinme Logo</string>
     <string name="login_button">Login</string>
     <string name="password">Password</string>

@@ -14,7 +14,7 @@ public class JoinmeMainHomeFragment extends Fragment{
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View homeView = inflater.inflate(R.layout.joinme_idea_cardview,container,false);
+        View homeView = inflater.inflate(R.layout.joinme_cardview_trips,container,false);
         return homeView;
     }
 }
